@@ -3,3 +3,4 @@ tkintermapview>=1.29
 Werkzeug>=3.0.0
 geocoder>=1.38.1
 winrt>=1.0.21033.1
+python-dotenv>=1.0.1
